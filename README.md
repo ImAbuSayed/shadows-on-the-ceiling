@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadows-on-the-ceiling/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Shadows On The Ceiling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadows-on-the-ceiling/) |
+| **Get License** | [Secure Licensing Rights for Shadows On The Ceiling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadows-on-the-ceiling/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `217499600b9c1b6ddd0ac64665491ada4755e4a829191807c239af97f204ffd9` |
 | **Timestamp** | June 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

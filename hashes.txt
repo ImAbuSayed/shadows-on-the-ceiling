@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shadows On The Ceiling
+
+This log tracks the cryptographic history and versioning for the song **Shadows On The Ceiling** (shadows-on-the-ceiling).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T05:01:19.061581 | `v1` | `217499600b9c1b6ddd0ac64665491ada4755e4a829191807c239af97f204ffd9` | `8c88335467259514753665e157c477df990245663d72b25c09b964e907b39084` | `2026-06-11_shadows-on-the-ceiling-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
