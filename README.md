@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadows-on-the-ceiling/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Shadows On The Ceiling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadows-on-the-ceiling/) |
+| **Get License** | [Get a Licensing Quote for Shadows On The Ceiling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadows-on-the-ceiling/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows on the ceiling dancing slow
+> Got nowhere else in the world to go
+> Watching how the firelight paints your face
+> Losing all my senses in a sweet embrace
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
